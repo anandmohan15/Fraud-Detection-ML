@@ -1,18 +1,4 @@
-"""
-=============================================================================
- FRAUD DETECTION USING MACHINE LEARNING
- ----------------------------------------
- A complete end-to-end ML pipeline that:
-   1. Generates synthetic transaction data with realistic fraud patterns
-   2. Engineers meaningful features from raw data
-   3. Trains a Random Forest classifier
-   4. Evaluates model performance
-   5. Visualizes feature importance for explainability
 
- Author : LTI2 Project
- Python : 3.8+
-=============================================================================
-"""
 
 # ── Imports ──────────────────────────────────────────────────────────────────
 import os
